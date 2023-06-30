@@ -16,3 +16,14 @@ Documentation of Tasks
 9. Calculating relevant metrics for the entire dataset (sum, mean) at a top-line level.
 10. Analyzing additional metrics at the top-line aggregated level and drilling down into a granular level
 11. Slicing the data based on other relevant dimensions.
+
+
+### Focusing on Weekly Time-Series Charts:
+##### Line Chart for Cost
+![weekly_costs](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/34a38222-152c-4d21-b3bc-7cd66282d593)
+*Weekly Costs*
+
+##### Bar Chart for Impressions
+![weekly_impressions](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/5017d256-5a52-418a-8c85-4fa4ed8a0a8a)
+*Impressions per Week*
+
