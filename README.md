@@ -20,10 +20,12 @@ Documentation of Tasks
 
 ### Focusing on Weekly Time-Series Charts:
 ##### Line Chart for Cost
-![weekly_costs](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/34a38222-152c-4d21-b3bc-7cd66282d593)
-*Weekly Costs*
+![weekly_costs_image](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/eeb5a04f-06a4-4d38-934d-5658b416f118)
+
+*Figure: Weekly Costs*
 
 ##### Bar Chart for Impressions
-![weekly_impressions](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/5017d256-5a52-418a-8c85-4fa4ed8a0a8a)
-*Impressions per Week*
+![weekly_impressions_image](https://github.com/Rezwan66/exploration-of-econometrics-dataset/assets/63563859/5f7e753c-2035-4850-92c8-34eb2ecc117a)
+
+*Figure: Impressions per Week*
 
